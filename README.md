@@ -2,7 +2,7 @@
 - 👀 Saya tertarik dengan permainan
 - 🌱 Saya sedang mempelajari code pemrograman
 - 💞️ Saya ingin mencoba belajar ini
-- 📫 Cara menghubungi saya bhagaskorko.aaw@
+- 📫 Cara menghubungi saya bhagaskorko.aaw@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
