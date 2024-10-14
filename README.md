@@ -3,8 +3,6 @@
 - 🌱 Saya sedang mempelajari code pemrograman
 - 💞️ Saya ingin mencoba belajar ini
 - 📫 Cara menghubungi saya bhagaskorko.aaw@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 KoroAdiguna/KoroAdiguna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
